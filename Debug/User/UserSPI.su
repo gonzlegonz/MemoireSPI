@@ -1,0 +1,16 @@
+../User/UserSPI.c:12:6:AT25X_Write	16	static
+../User/UserSPI.c:143:9:AT25X_Read	24	static
+../User/UserSPI.c:255:6:AT25X_Reset	8	static
+../User/UserSPI.c:268:6:AT25X_ReadModifyWrite	8	static
+../User/UserSPI.c:281:6:AT25X_SequentialProgram	16	static
+../User/UserSPI.c:302:6:AT25X_XiPMode	16	static
+../User/UserSPI.c:320:6:AT25X_StatusRegisterLock	8	static
+../User/UserSPI.c:331:6:AT25X_Terminate	8	static
+../User/UserSPI.c:341:6:AT25X_DeepPowerDown_UltraDeepPowerDown	16	static
+../User/UserSPI.c:364:6:AT25X_WriteEnable	8	static
+../User/UserSPI.c:373:6:AT25X_VolatileWriteEnable	8	static
+../User/UserSPI.c:382:6:AT25X_WriteDisable	8	static
+../User/UserSPI.c:391:5:AT25X_DefAddr	48	static
+../User/UserSPI.c:488:5:AT25X_DefData	2064	static
+../User/UserSPI.c:541:6:Transition	16	static
+../User/UserSPI.c:591:6:AT25X_ResetTotal	16	static
